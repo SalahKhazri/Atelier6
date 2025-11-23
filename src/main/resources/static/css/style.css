@@ -1,0 +1,24 @@
+header {
+    background: #243447;
+    color: white;
+    padding: 15px;
+}
+
+footer {
+    background: #243447;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+table {
+    background: white;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
